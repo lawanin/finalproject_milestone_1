@@ -1,0 +1,21 @@
+---
+title: "milestone_1"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+## Milestone #1
+
+### Option 1
+"Preceptor suggested that Freshman could do something on the matching, which seems interesting to me, especially given the effects of COVID-19 on the first year experience this year. I am not sure, however, whether this data would be available by the time the year ends. If it were, it would be interesting to compare the data to years past, especially in group size and, perhaps, composition. I am not sure whether people in the past have done surveys, which Jessica also suggested as an option. I am less inclined to send out surveys, as I  do not often respond to them."
+
+### Option 2
+"I am also interested in learning in more depth about current political topics. Gun violence, and its link to gun ownerhsip, seems like something that is often talked about, but I do not know many concrete details about it. Past projects have explored the topic in the U.S. over time, by place, and in relation to things like permits and sentencing. If I were to undertake this project, I would think I might be interested in comparing by place but also by factors like gun ownership, poverty level, and demographics. I know suicides are a big part of gun violence statistics. There would be alot to explore in this topic, and I imagine I would have to be careful in finding accurate data, and from a very quick search, I am not sure, whether data for things like gun ownerhsip in various locations exist."
+```
+
