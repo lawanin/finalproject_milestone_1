@@ -1,8 +1,10 @@
 ---
-title: "milestone_1"
+title: "Milestone 1"
+author: "Nosa Lawani"
+date: "12-02--2021"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
